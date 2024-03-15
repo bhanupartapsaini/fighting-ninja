@@ -18,7 +18,6 @@ keep enjoying,
 like and share 
 have a nice day.
 
-**yuvin kalotiya**
 
 https://yuvin-kalotiya-fighting-ninja.netlify.app/
 
