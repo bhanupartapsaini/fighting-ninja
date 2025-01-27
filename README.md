@@ -19,7 +19,7 @@ like and share
 have a nice day.
 
 
-https://yuvin-kalotiya-fighting-ninja.netlify.app/
+https://fighting-ninja.netlify.app/
 
 <img width="770" alt="Screenshot_3" src="https://user-images.githubusercontent.com/65064668/178105771-60b037d8-01f0-41de-a804-fe3b86a2e447.png">
 <img width="768" alt="Screenshot_4" src="https://user-images.githubusercontent.com/65064668/178105773-9c9331e5-2577-4617-825d-19da5082c6fe.png">
